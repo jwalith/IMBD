@@ -1,0 +1,1323 @@
+[
+  {
+    "title": "Eeswar",
+    "Directed by": "Jayanth C. Paranjee",
+    "Written by": "Paruchuri Brothers (dialogues)",
+    "Screenplay by": "Jayanth C. Paranjee",
+    "Story by": "Deena Raj",
+    "Produced by": "Kolla Ashok Kumar",
+    "Starring": [
+      "Prabhas",
+      "Sridevi Vijaykumar",
+      "Brahmanandam",
+      "Sivakrishna",
+      "Revathi"
+    ],
+    "Cinematography": "Jawahar Reddy",
+    "Edited by": "Marthand K. Venkatesh",
+    "Music by": "R. P. Patnaik",
+    "Release date": "11 November 2002",
+    "Running time": "164 minutes",
+    "Country": "India",
+    "Language": "Telugu",
+    "Running time(int)": 164,
+    "Box office(crores)": "NA",
+    "Budget(crores)": "NA",
+    "Release date(Datetime)": "11 November 2002",
+    "IMDB": null,
+    "Rotten Tomatoes": null
+  },
+  {
+    "title": "Raghavendra",
+    "Directed by": "Suresh Krishna",
+    "Written by": "Posani Krishna Murali",
+    "Produced by": "B. Srinivasa Raju",
+    "Starring": [
+      "Prabhas",
+      "Anshu",
+      "Shweta Agarwal"
+    ],
+    "Cinematography": "V. Pratap",
+    "Edited by": "Kotagiri Venkateswara Rao",
+    "Music by": "Mani Sharma",
+    "Production company": "Sree Sree Chitra",
+    "Release date": [
+      "28 March 2003 ( 2003-03-28 )"
+    ],
+    "Country": "India",
+    "Language": "Telugu",
+    "Running time(int)": null,
+    "Box office(crores)": "NA",
+    "Budget(crores)": "NA",
+    "Release date(Datetime)": "28 March 2003",
+    "IMDB": "4.8",
+    "Rotten Tomatoes": null
+  },
+  {
+    "title": "Varsham",
+    "Directed by": "Sobhan",
+    "Screenplay by": [
+      "M.S. Raju",
+      "Paruchuri Brothers",
+      "(dialogues)"
+    ],
+    "Story by": "Veeru Potla",
+    "Produced by": "M.S. Raju",
+    "Starring": [
+      "Prabhas",
+      "Trisha",
+      "Gopichand"
+    ],
+    "Cinematography": "S. Gopal Reddy",
+    "Edited by": "K. V. Krishna Reddy",
+    "Music by": "Devi Sri Prasad",
+    "Production company": "Sumanth Art Productions",
+    "Release date": [
+      "14 January 2004 ( 2004-01-14 )"
+    ],
+    "Running time": "159 minutes",
+    "Country": "India",
+    "Language": "Telugu",
+    "Box office": "est. ₹19 crore (Distributor Share)",
+    "Running time(int)": 159,
+    "Box office(crores)": "19",
+    "Budget(crores)": "NA",
+    "Release date(Datetime)": "14 January 2004",
+    "IMDB": "7.2",
+    "Rotten Tomatoes": null
+  },
+  {
+    "title": "Adavi Ramudu",
+    "Directed by": "B. Gopal",
+    "Written by": [
+      "B. Gopal",
+      "Paruchuri Brothers"
+    ],
+    "Produced by": "Chanti Addala",
+    "Starring": [
+      "Prabhas",
+      "Aarti Agarwal"
+    ],
+    "Cinematography": "V. S. R. Swamy",
+    "Edited by": "Kotagiri Venkateswara Rao",
+    "Music by": "Mani Sharma",
+    "Distributed by": "KAD Movies",
+    "Release date": [
+      "21 May 2004 ( 2004-05-21 )"
+    ],
+    "Country": "India",
+    "Language": "Telugu",
+    "Running time(int)": null,
+    "Box office(crores)": "NA",
+    "Budget(crores)": "NA",
+    "Release date(Datetime)": "21 May 2004",
+    "IMDB": "4.0",
+    "Rotten Tomatoes": null
+  },
+  {
+    "title": "Chakram",
+    "Directed by": "Krishna Vamsi",
+    "Written by": "Krishna Vamsi",
+    "Produced by": [
+      "C. Venkatraju",
+      "G. Sivaraju"
+    ],
+    "Starring": [
+      "Prabhas",
+      "Asin",
+      "Charmy Kaur",
+      "Prakash Raj"
+    ],
+    "Cinematography": [
+      "C. Ramprasad",
+      "Om Prakash",
+      "Arvind Krishna"
+    ],
+    "Edited by": "K. V. Krishna Reddy",
+    "Music by": "Chakri",
+    "Production company": "Geeta Chitra International",
+    "Release date": [
+      "25 March 2005 ( 2005-03-25 )"
+    ],
+    "Running time": "150 minutes",
+    "Language": "Telugu",
+    "Running time(int)": 150,
+    "Box office(crores)": "NA",
+    "Budget(crores)": "NA",
+    "Release date(Datetime)": "25 March 2005",
+    "IMDB": "6.1",
+    "Rotten Tomatoes": null
+  },
+  {
+    "title": "Chatrapathi",
+    "Directed by": "S. S. Rajamouli",
+    "Screenplay by": "S. S. Rajamouli",
+    "Dialogues by": [
+      "M. Rathnam"
+    ],
+    "Story by": "V. Vijayendra Prasad",
+    "Produced by": "B. V. S. N. Prasad",
+    "Starring": [
+      "Prabhas",
+      "Shriya Saran",
+      "Shafi",
+      "Bhanupriya",
+      "Pradeep Rawat"
+    ],
+    "Cinematography": "K. K. Senthil Kumar",
+    "Edited by": "Kotagiri Venkateswara Rao",
+    "Music by": "M. M. Keeravani",
+    "Production company": "Sri Venkateswara Cine Chitra",
+    "Distributed by": "Sri Venkateswara Cine Chitra",
+    "Release date": [
+      "29 September 2005 ( 2005-09-29 )"
+    ],
+    "Running time": "165 minutes",
+    "Country": "India",
+    "Language": "Telugu",
+    "Budget": "₹ 12.5 crore (US$2.5 million)",
+    "Box office": "est. ₹21–22 crore (US$5 million) distributors' share",
+    "Running time(int)": 165,
+    "Box office(crores)": "21",
+    "Budget(crores)": "12.5",
+    "Release date(Datetime)": "29 September 2005",
+    "IMDB": "7.6",
+    "Rotten Tomatoes": null
+  },
+  {
+    "title": "Pournami",
+    "Directed by": "Prabhu Deva",
+    "Written by": [
+      "M. S. Raju",
+      "Paruchuri Brothers"
+    ],
+    "Based on": "Behind the Sun",
+    "Produced by": "M. S. Raju",
+    "Starring": [
+      "Prabhas",
+      "Trisha",
+      "Charmy",
+      "Sindhu Tolani",
+      "Rahul Dev"
+    ],
+    "Cinematography": "Venu",
+    "Edited by": "K. V. Krishna Reddy",
+    "Music by": "Devi Sri Prasad",
+    "Production company": "Sumanth Art Productions",
+    "Release date": [
+      "20 April 2006 ( 2006-04-20 )"
+    ],
+    "Running time": "167 minutes",
+    "Country": "India",
+    "Language": "Telugu",
+    "Running time(int)": 167,
+    "Box office(crores)": "NA",
+    "Budget(crores)": "NA",
+    "Release date(Datetime)": "20 April 2006",
+    "IMDB": "5.8",
+    "Rotten Tomatoes": null
+  },
+  {
+    "title": "Yogi",
+    "Directed by": "V. V. Vinayak",
+    "Written by": "Rajendra Kumar (dialogues)",
+    "Story by": "Prem",
+    "Based on": "Jogi",
+    "Produced by": "P. Ravindranath Reddy",
+    "Starring": [
+      "Prabhas",
+      "Nayantara",
+      "Kota Srinivasa Rao",
+      "Pradeep Rawat",
+      "Sharada",
+      "Ali"
+    ],
+    "Cinematography": "Sameer Reddy",
+    "Edited by": "Gautham Raju",
+    "Music by": [
+      "Songs:",
+      "Ramana Gogula",
+      "Score:",
+      "Gurukiran"
+    ],
+    "Release date": [
+      "14 January 2007 ( 2007-01-14 )"
+    ],
+    "Running time": "155 minutes",
+    "Country": "India",
+    "Language": "Telugu",
+    "Box office": "est. ₹25 crore",
+    "Running time(int)": 155,
+    "Box office(crores)": "25",
+    "Budget(crores)": "NA",
+    "Release date(Datetime)": "14 January 2007",
+    "IMDB": "4.5",
+    "Rotten Tomatoes": null
+  },
+  {
+    "title": "Munna",
+    "Directed by": "Vamshi Paidipally",
+    "Screenplay by": "Vamshi Paidipally",
+    "Dialogues by": [
+      "Koratala Siva",
+      "B. V. S. Ravi"
+    ],
+    "Story by": "Vamshi Paidipally",
+    "Produced by": "Dil Raju",
+    "Starring": [
+      "Prabhas",
+      "Ileana D'Cruz",
+      "Prakash Raj",
+      "Kota Srinivasa Rao",
+      "Rahul Dev"
+    ],
+    "Cinematography": "C. Ramprasad",
+    "Edited by": "Marthand K. Venkatesh",
+    "Music by": "Harris Jayaraj",
+    "Production company": "Sri Venkateswara Creations",
+    "Distributed by": "Sri Venkateswara Creations",
+    "Release date": [
+      "27 April 2007 ( 2007-04-27 )"
+    ],
+    "Running time": "174 minutes",
+    "Country": "India",
+    "Language": "Telugu",
+    "Running time(int)": 174,
+    "Box office(crores)": "NA",
+    "Budget(crores)": "NA",
+    "Release date(Datetime)": "27 April 2007",
+    "IMDB": "5.5",
+    "Rotten Tomatoes": null
+  },
+  {
+    "title": "Bujjigadu",
+    "Directed by": "Puri Jagannadh",
+    "Written by": "Puri Jagannadh",
+    "Produced by": "K. S. Rama Rao",
+    "Starring": [
+      "Prabhas",
+      "Mohan Babu",
+      "Trisha"
+    ],
+    "Cinematography": "Shyam K. Naidu",
+    "Edited by": "M. R. Varma",
+    "Music by": "Sandeep Chowta",
+    "Production company": "Creative Commercials",
+    "Distributed by": "Creative Commercials",
+    "Release date": [
+      "22 May 2008 ( 2008-05-22 )"
+    ],
+    "Running time": "146 minutes",
+    "Country": "India",
+    "Language": "Telugu",
+    "Running time(int)": 146,
+    "Box office(crores)": "NA",
+    "Budget(crores)": "NA",
+    "Release date(Datetime)": "22 May 2008",
+    "IMDB": null,
+    "Rotten Tomatoes": null
+  },
+  {
+    "title": "Billa",
+    "Directed by": "Meher Ramesh",
+    "Screenplay by": "Meher Ramesh",
+    "Story by": "Salim–Javed",
+    "Based on": "Don",
+    "Produced by": [
+      "D. Narendra",
+      "Prabodh"
+    ],
+    "Starring": [
+      "Prabhas",
+      "Krishnam Raju",
+      "Anushka Shetty",
+      "Namitha",
+      "Rahman",
+      "Kelly Dorjee"
+    ],
+    "Cinematography": "Soundarrajan",
+    "Edited by": "Marthand K. Venkatesh",
+    "Music by": "Mani Sharma",
+    "Production company": "Gopi Krishna Movies",
+    "Distributed by": "Creative Commercials",
+    "Release date": [
+      "3 April 2009 ( 2009-04-03 )"
+    ],
+    "Running time": "154 minutes",
+    "Country": "India",
+    "Language": "Telugu",
+    "Box office": "est. ₹26 crore",
+    "Running time(int)": 154,
+    "Box office(crores)": "26",
+    "Budget(crores)": "NA",
+    "Release date(Datetime)": "03 April 2009",
+    "IMDB": "7.3",
+    "Rotten Tomatoes": null
+  },
+  {
+    "title": "Ek Niranjan",
+    "Directed by": "Puri Jagannadh",
+    "Written by": "Puri Jagannadh",
+    "Produced by": "Aditya Ram",
+    "Starring": [
+      "Prabhas",
+      "Kangana Ranaut",
+      "Sonu Sood",
+      "Mukul Dev"
+    ],
+    "Cinematography": "Shyam K. Naidu",
+    "Edited by": "M. R. Varma",
+    "Music by": "Mani Sharma",
+    "Production company": "Adityaram Movies",
+    "Distributed by": "Adityaram Movies",
+    "Release date": [
+      "29 October 2009 ( 2009-10-29 )"
+    ],
+    "Running time": "155 minutes",
+    "Country": "India",
+    "Language": "Telugu",
+    "Running time(int)": 155,
+    "Box office(crores)": "NA",
+    "Budget(crores)": "NA",
+    "Release date(Datetime)": "29 October 2009",
+    "IMDB": "5.4",
+    "Rotten Tomatoes": null
+  },
+  {
+    "title": "Darling",
+    "Directed by": "A. Karunakaran",
+    "Written by": "A. Karunakaran",
+    "Produced by": "B. V. S. N. Prasad",
+    "Starring": [
+      "Prabhas",
+      "Kajal Aggarwal"
+    ],
+    "Cinematography": "I. Andrew",
+    "Edited by": "Kotagiri Venkateswara Rao",
+    "Music by": "G. V. Prakash Kumar",
+    "Production company": "Sri Venkateswara Cine Chitra",
+    "Distributed by": [
+      "Sri Venkateshwara Creations",
+      "Reliance Movies"
+    ],
+    "Release date": [
+      "23 April 2010 ( 2010-04-23 )"
+    ],
+    "Running time": "153 mins",
+    "Country": "India",
+    "Language": "Telugu",
+    "Budget": [
+      "₹ 18–21 crore"
+    ],
+    "Box office": [
+      "est. ₹ 55 crore"
+    ],
+    "Running time(int)": 153,
+    "Box office(crores)": "55",
+    "Budget(crores)": "18",
+    "Release date(Datetime)": "23 April 2010",
+    "IMDB": "7.0",
+    "Rotten Tomatoes": "68%"
+  },
+  {
+    "title": "Mr. Perfect",
+    "Directed by": "Dasaradh",
+    "Screenplay by": [
+      "Hari Krishna",
+      "Praveen Varma"
+    ],
+    "Story by": "Dasaradh",
+    "Produced by": "Dil Raju",
+    "Starring": [
+      "Prabhas",
+      "Kajal Aggarwal",
+      "Taapsee Pannu"
+    ],
+    "Cinematography": "Vijay K. Chakravarthy",
+    "Edited by": "Marthand K. Venkatesh",
+    "Music by": "Devi Sri Prasad",
+    "Production company": "Sri Venkateswara Creations",
+    "Release date": [
+      "22 April 2011 ( 2011-04-22 )"
+    ],
+    "Running time": "145 min",
+    "Country": "India",
+    "Language": "Telugu",
+    "Box office": "est. ₹28.8 crore distributors' share",
+    "Running time(int)": 145,
+    "Box office(crores)": "28.8",
+    "Budget(crores)": "NA",
+    "Release date(Datetime)": "22 April 2011",
+    "IMDB": "6.8",
+    "Rotten Tomatoes": null
+  },
+  {
+    "title": "Rebel",
+    "Directed by": "Raghava Lawrence",
+    "Written by": "Raghava Lawrence",
+    "Produced by": [
+      "J. Bhagavan",
+      "J. Pulla Rao"
+    ],
+    "Starring": [
+      "Prabhas",
+      "Tamannaah Bhatia",
+      "Mukesh Rishi",
+      "Deeksha Seth"
+    ],
+    "Cinematography": "C. Ramprasad",
+    "Edited by": "Marthand K. Venkatesh",
+    "Music by": [
+      "Songs: Raghava Lawrence",
+      "Score: S. Chinna"
+    ],
+    "Production company": "Sri Balaji Cine Media",
+    "Distributed by": [
+      "Sri Venkateswara Creations (Nizam)",
+      "7 Seas (overseas)",
+      "14 Reels Entertainment (Krishna)",
+      "N.V. Prasad (ceded)"
+    ],
+    "Release date": [
+      "28 September 2012 ( 2012-09-28 ) (India)"
+    ],
+    "Running time": "176 minutes",
+    "Country": "India",
+    "Language": "Telugu",
+    "Budget": "₹ 50 crores",
+    "Box office": "est. ₹ 55 crores",
+    "Running time(int)": 176,
+    "Box office(crores)": "55",
+    "Budget(crores)": "50",
+    "Release date(Datetime)": "28 September 2012",
+    "IMDB": "7.2",
+    "Rotten Tomatoes": null
+  },
+  {
+    "title": "Denikaina Ready",
+    "Directed by": "G. Nageswara Reddy",
+    "Screenplay by": [
+      "Gopimohan",
+      "Kona Venkat"
+    ],
+    "Story by": [
+      "B. V. S. Ravi",
+      "Udayakrishnan",
+      "Sibi K. Thomas"
+    ],
+    "Produced by": "Mohan Babu",
+    "Starring": [
+      "Vishnu Manchu",
+      "Hansika Motwani"
+    ],
+    "Cinematography": "Siddharth Ramaswamy",
+    "Edited by": "M. R. Varma",
+    "Music by": [
+      "Yuvan Shankar Raja",
+      "Chakri"
+    ],
+    "Production company": "24 Frames Factory",
+    "Distributed by": "24 Frames Factory (worldwide)",
+    "Release date": [
+      "24 October 2012 ( 2012-10-24 )"
+    ],
+    "Running time": "139 minutes",
+    "Country": "India",
+    "Language": "Telugu",
+    "Running time(int)": 139,
+    "Box office(crores)": "NA",
+    "Budget(crores)": "NA",
+    "Release date(Datetime)": "24 October 2012",
+    "IMDB": null,
+    "Rotten Tomatoes": null
+  },
+  {
+    "title": "Mirchi",
+    "Directed by": "Koratala Siva",
+    "Written by": "Koratala Siva",
+    "Produced by": [
+      "V. Vamsi Krishna Reddy",
+      "Pramod Uppalapati"
+    ],
+    "Starring": [
+      "Prabhas",
+      "Anushka Shetty",
+      "Richa Gangopadhyay"
+    ],
+    "Cinematography": "Madhi",
+    "Edited by": "Kotagiri Venkateswara Rao",
+    "Music by": "Devi Sri Prasad",
+    "Production company": "UV Creations",
+    "Distributed by": "Great India Films (Overseas)",
+    "Release date": [
+      "8 February 2013 ( 2013-02-08 )"
+    ],
+    "Running time": "160 minutes",
+    "Country": "India",
+    "Language": "Telugu",
+    "Box office": "est. ₹ 80 crore",
+    "Running time(int)": 160,
+    "Box office(crores)": "80",
+    "Budget(crores)": "NA",
+    "Release date(Datetime)": "08 February 2013",
+    "IMDB": "7.3",
+    "Rotten Tomatoes": null
+  },
+  {
+    "title": "Action Jackson",
+    "Directed by": "Prabhu Deva",
+    "Written by": [
+      "Screenplay:",
+      "Prabhu Deva",
+      "A. C. Mugil",
+      "Shiraz Ahmed",
+      "Dialogues:",
+      "Shiraz Ahmed"
+    ],
+    "Story by": "A. C. Mugil",
+    "Produced by": [
+      "Gordhan P. Tanwani",
+      "Sunil Lulla"
+    ],
+    "Starring": [
+      "Ajay Devgn",
+      "Sonakshi Sinha",
+      "Yami Gautam",
+      "Kunaal Roy Kapur",
+      "Manasvi Mamgai",
+      "Anandaraj"
+    ],
+    "Cinematography": "Vijay Kumar Arora",
+    "Edited by": "Bunty Nagi",
+    "Music by": [
+      "Songs:",
+      "Himesh Reshammiya",
+      "Score:",
+      "Sandeep Chowta"
+    ],
+    "Production company": "Baba Films",
+    "Distributed by": "Eros International",
+    "Release date": [
+      "5 December 2014 ( 2014-12-05 )"
+    ],
+    "Running time": "144 minutes",
+    "Country": "India",
+    "Language": "Hindi",
+    "Budget": "₹ 93 crore",
+    "Box office": "₹ 90.37 crore",
+    "Running time(int)": 144,
+    "Box office(crores)": "90.37",
+    "Budget(crores)": "93",
+    "Release date(Datetime)": "05 December 2014",
+    "IMDB": "5.5",
+    "Rotten Tomatoes": "19%"
+  },
+  {
+    "title": "Baahubali: The Beginning",
+    "Directed by": "S.S. Rajamouli",
+    "Screenplay by": "S.S. Rajamouli",
+    "Story by": "V. Vijayendra Prasad",
+    "Produced by": [
+      "Shobu Yarlagadda",
+      "Prasad Devineni"
+    ],
+    "Starring": [
+      "Prabhas",
+      "Rana Daggubati",
+      "Anushka Shetty",
+      "Tamannaah Bhatia",
+      "Ramya Krishna",
+      "Sathyaraj",
+      "Nassar"
+    ],
+    "Cinematography": "K. K. Senthil Kumar",
+    "Visual effects by": "V. Srinivas Mohan",
+    "Edited by": "Kotagiri Venkateswara Rao",
+    "Music by": "M. M. Keeravani",
+    "Production company": "Arka Media Works",
+    "Distributed by": [
+      "Arka Media Works (Telugu)",
+      "Global United Media (Malayalam)",
+      "Studio Green , Sri Thenandal Films (Tamil)",
+      "Dharma Productions , AA Films (Hindi)"
+    ],
+    "Release date": [
+      "10 July 2015 ( 2015-07-10 )"
+    ],
+    "Running time": [
+      "158 minutes (Telugu)",
+      "159 minutes (Tamil)"
+    ],
+    "Country": "India",
+    "Languages": [
+      "Telugu",
+      "Tamil"
+    ],
+    "Budget": "₹ 180 crore",
+    "Box office": "est. ₹ 600–650 crore",
+    "Running time(int)": 158,
+    "Box office(crores)": "600",
+    "Budget(crores)": "180",
+    "Release date(Datetime)": "10 July 2015",
+    "IMDB": "8.0",
+    "Rotten Tomatoes": "91%"
+  },
+  {
+    "title": "Baahubali 2: The Conclusion",
+    "Directed by": "S. S. Rajamouli",
+    "Screenplay by": "S. S. Rajamouli",
+    "Story by": "V. Vijayendra Prasad",
+    "Produced by": [
+      "Shobu Yarlagadda",
+      "Prasad Devineni"
+    ],
+    "Starring": [
+      "Prabhas",
+      "Rana Daggubati",
+      "Anushka Shetty",
+      "Tamannaah Bhatia",
+      "Ramya Krishna",
+      "Sathyaraj",
+      "Nassar",
+      "Subbaraju"
+    ],
+    "Cinematography": "K. K. Senthil Kumar",
+    "Visual effects by": "Makuta VFX",
+    "Edited by": "Kotagiri Venkateswara Rao",
+    "Music by": "M. M. Keeravani",
+    "Production company": "Arka Media Works",
+    "Distributed by": [
+      "Arka Media Works (Telugu)",
+      "K Productions (Tamil)",
+      "Global United Media (Malayalam)",
+      "AA Films (Hindi)"
+    ],
+    "Release date": [
+      "28 April 2017 ( 2017-04-28 )"
+    ],
+    "Running time": [
+      "171 minutes (Telugu)",
+      "168 minutes (Tamil)"
+    ],
+    "Country": "India",
+    "Languages": [
+      "Telugu",
+      "Tamil"
+    ],
+    "Budget": "₹250 crore",
+    "Box office": "est. ₹ 1,737.68–1,810.60 crore",
+    "Running time(int)": 171,
+    "Box office(crores)": "1,737.68",
+    "Budget(crores)": "250",
+    "Release date(Datetime)": "28 April 2017",
+    "IMDB": "8.2",
+    "Rotten Tomatoes": "88%"
+  },
+  {
+    "title": "Saaho",
+    "Directed by": "Sujeeth",
+    "Written by": "Sujeeth",
+    "Produced by": [
+      "V. Vamsi Krishna Reddy",
+      "Pramod Uppalapati",
+      "Bhushan Kumar",
+      "Krishan Kumar"
+    ],
+    "Starring": [
+      "Prabhas",
+      "Shraddha Kapoor",
+      "Chunky Pandey",
+      "Jackie Shroff",
+      "Arun Vijay",
+      "Neil Nitin Mukesh",
+      "M. P. Michael",
+      "Murali Sharma",
+      "Mandira Bedi",
+      "Mahesh Manjrekar",
+      "Prakash Belawadi",
+      "Evelyn Sharma",
+      "Vennela Kishore"
+    ],
+    "Cinematography": "R. Madhi",
+    "Edited by": "A. Sreekar Prasad",
+    "Music by": [
+      "Songs:",
+      "Tanishk Bagchi",
+      "Guru Randhawa",
+      "Badshah",
+      "Shankar–Ehsaan–Loy",
+      "Score:",
+      "Ghibran"
+    ],
+    "Production companies": [
+      "T-Series",
+      "UV Creations"
+    ],
+    "Distributed by": "AA Films",
+    "Release date": [
+      "30 August 2019 ( 2019-08-30 ) (India)"
+    ],
+    "Running time": "170 minutes",
+    "Country": "India",
+    "Languages": [
+      "Telugu",
+      "Hindi"
+    ],
+    "Budget": "₹ 325 crore",
+    "Box office": "est. ₹ 419–439 crore",
+    "Running time(int)": 170,
+    "Box office(crores)": "419",
+    "Budget(crores)": "325",
+    "Release date(Datetime)": "30 August 2019",
+    "IMDB": "5.0",
+    "Rotten Tomatoes": "8%"
+  },
+  {
+    "title": "Radhe Shyam",
+    "Directed by": "Radha Krishna Kumar",
+    "Written by": "Radha Krishna Kumar",
+    "Produced by": [
+      "Bhushan Kumar",
+      "V. Vamsi Krishna Reddy",
+      "Pramod Uppalapati",
+      "Praseedha Uppalapati"
+    ],
+    "Starring": [
+      "Prabhas",
+      "Pooja Hegde"
+    ],
+    "Narrated by": "Amitabh Bachchan (Hindi)",
+    "Cinematography": "Manoj Paramahamsa",
+    "Edited by": "Kotagiri Venkateswara Rao",
+    "Music by": [
+      "Songs:",
+      "Justin Prabhakaran (Telugu)",
+      "Mithoon (Hindi)",
+      "Manan Bhardwaj (Hindi)",
+      "Amaal Mallik (Hindi)",
+      "Score:",
+      "S. Thaman (Telugu)",
+      "Sanchit Balhara and Ankit Balhara (Hindi)"
+    ],
+    "Production companies": [
+      "UV Creations",
+      "T-Series Films"
+    ],
+    "Distributed by": "AA Films",
+    "Release date": [
+      "11 March 2022 ( 2022-03-11 )"
+    ],
+    "Running time": "138 minutes",
+    "Country": "India",
+    "Languages": [
+      "Telugu",
+      "Hindi"
+    ],
+    "Budget": "₹ 300–350 crore",
+    "Box office": "est. ₹200–214 crore",
+    "Running time(int)": 138,
+    "Box office(crores)": "200",
+    "Budget(crores)": "300",
+    "Release date(Datetime)": "11 March 2022",
+    "IMDB": "5.2",
+    "Rotten Tomatoes": null
+  },
+  {
+    "title": "Adipurush",
+    "Directed by": "Om Raut",
+    "Written by": [
+      "Screenplay:",
+      "Om Raut",
+      "Dialogues:",
+      "Manoj Muntashir"
+    ],
+    "Based on": [
+      "Ramayana",
+      "by",
+      "Valmiki"
+    ],
+    "Produced by": [
+      "Bhushan Kumar",
+      "Krishan Kumar",
+      "Om Raut",
+      "Prasad Sutar",
+      "Rajesh Nair"
+    ],
+    "Starring": [
+      "Prabhas",
+      "Kriti Sanon",
+      "Saif Ali Khan",
+      "Sunny Singh",
+      "Devdatta Nage"
+    ],
+    "Cinematography": "Karthik Palani",
+    "Edited by": [
+      "Apurva Motiwale",
+      "Ashish Mhatre"
+    ],
+    "Music by": [
+      "Score:",
+      "Sanchit Balhara",
+      "Ankit Balhara",
+      "Songs:",
+      "Ajay-Atul",
+      "Sachet–Parampara"
+    ],
+    "Production companies": [
+      "T-Series Films",
+      "Retrophiles"
+    ],
+    "Distributed by": [
+      "AA Films (Hindi)",
+      "UV Creations (Telugu)",
+      "People Media Factory (Telugu)",
+      "KRG Studios (Kannada)"
+    ],
+    "Release date": [
+      "16 June 2023 ( 2023-06-16 )"
+    ],
+    "Running time": "179 minutes",
+    "Country": "India",
+    "Languages": [
+      "Hindi",
+      "Telugu"
+    ],
+    "Budget": "est. ₹500–700 crore",
+    "Box office": "est. ₹354 crore",
+    "Running time(int)": 179,
+    "Box office(crores)": "354",
+    "Budget(crores)": "500",
+    "Release date(Datetime)": "16 June 2023",
+    "IMDB": "3.5",
+    "Rotten Tomatoes": null
+  },
+  {
+    "title": "Salaar: Part 1 – Ceasefire",
+    "Directed by": "Prashanth Neel",
+    "Written by": "Prashanth Neel",
+    "Dialogues by": [
+      "Sandeep Reddy Bandla",
+      "Hanumaan Choudary",
+      "Dr. Suri"
+    ],
+    "Produced by": "Vijay Kiragandur",
+    "Starring": [
+      "Prabhas",
+      "Prithviraj Sukumaran"
+    ],
+    "Cinematography": "Bhuvan Gowda",
+    "Edited by": "Ujwal Kulkarni",
+    "Music by": "Ravi Basrur",
+    "Production company": "Hombale Films",
+    "Distributed by": "see below",
+    "Release date": "22 December 2023",
+    "Running time": "175 minutes",
+    "Country": "India",
+    "Language": "Telugu",
+    "Budget": "₹270 crore",
+    "Box office": "est. ₹715 crore",
+    "Running time(int)": 175,
+    "Box office(crores)": "715",
+    "Budget(crores)": "270",
+    "Release date(Datetime)": "22 December 2023",
+    "IMDB": null,
+    "Rotten Tomatoes": null
+  },
+  {
+    "title": "Kalki 2898 – A.D",
+    "Directed by": "Nag Ashwin",
+    "Dialogues by": [
+      "Sai Madhav Burra"
+    ],
+    "Written by": "Nag Ashwin",
+    "Story by": "Nag Ashwin",
+    "Based on": [
+      "Vishnu Purana",
+      "Bhagavata Purana",
+      "Kalki Purana"
+    ],
+    "Produced by": "C. Aswani Dutt",
+    "Starring": [
+      "Prabhas",
+      "Amitabh Bachchan",
+      "Kamal Haasan",
+      "Deepika Padukone",
+      "Disha Patani"
+    ],
+    "Cinematography": "Djordje Stojiljkovic",
+    "Edited by": "Kotagiri Venkateswara Rao",
+    "Music by": "Santhosh Narayanan",
+    "Production company": "Vyjayanthi Movies",
+    "Release date": [
+      "9 May 2024 ( 2024-05-09 )"
+    ],
+    "Country": "India",
+    "Languages": [
+      "Telugu",
+      "Hindi"
+    ],
+    "Budget": "₹ 600 crore",
+    "Running time(int)": null,
+    "Box office(crores)": "NA",
+    "Budget(crores)": "600",
+    "Release date(Datetime)": "09 May 2024",
+    "IMDB": null,
+    "Rotten Tomatoes": null
+  },
+  {
+    "title": "The Raja Saab",
+    "Directed by": "Maruthi",
+    "Written by": "Maruthi",
+    "Produced by": [
+      "T. G. Vishwa Prasad",
+      "Vivek Kuchibotla"
+    ],
+    "Starring": "Prabhas",
+    "Cinematography": "Karthik Palani",
+    "Edited by": "Kotagiri Venkateswara Rao",
+    "Music by": "Thaman S.",
+    "Production company": "People Media Factory",
+    "Country": "India",
+    "Language": "Telugu",
+    "Running time(int)": null,
+    "Box office(crores)": "NA",
+    "Budget(crores)": "NA",
+    "Release date(Datetime)": null,
+    "IMDB": null,
+    "Rotten Tomatoes": null
+  },
+  {
+    "title": "Kannappa",
+    "Directed by": "Mukesh Kumar Singh",
+    "Screenplay by": "Vishnu Manchu",
+    "Story by": [
+      "Paruchuri Gopala Krishna",
+      "G. Nageswara Reddy",
+      "Eshwar Reddy",
+      "Thota Prasad"
+    ],
+    "Produced by": "Mohan Babu",
+    "Starring": [
+      "Vishnu Manchu"
+    ],
+    "Cinematography": "Sheldon Chau",
+    "Edited by": "Anthony",
+    "Music by": [
+      "Stephen Devassy",
+      "Mani Sharma"
+    ],
+    "Production companies": [
+      "AVA Entertainment",
+      "24 Frames Factory"
+    ],
+    "Release date": "2024",
+    "Country": "India",
+    "Language": "Telugu",
+    "Budget": "₹ 100 crore",
+    "Running time(int)": null,
+    "Box office(crores)": "NA",
+    "Budget(crores)": "100",
+    "Release date(Datetime)": "2024",
+    "IMDB": "8.3",
+    "Rotten Tomatoes": null
+  },
+  {
+    "title": "Varsham",
+    "Directed by": "Sobhan",
+    "Screenplay by": [
+      "M.S. Raju",
+      "Paruchuri Brothers",
+      "(dialogues)"
+    ],
+    "Story by": "Veeru Potla",
+    "Produced by": "M.S. Raju",
+    "Starring": [
+      "Prabhas",
+      "Trisha",
+      "Gopichand"
+    ],
+    "Cinematography": "S. Gopal Reddy",
+    "Edited by": "K. V. Krishna Reddy",
+    "Music by": "Devi Sri Prasad",
+    "Production company": "Sumanth Art Productions",
+    "Release date": [
+      "14 January 2004 ( 2004-01-14 )"
+    ],
+    "Running time": "159 minutes",
+    "Country": "India",
+    "Language": "Telugu",
+    "Box office": "est. ₹19 crore (Distributor Share)",
+    "Running time(int)": 159,
+    "Box office(crores)": "19",
+    "Budget(crores)": "NA",
+    "Release date(Datetime)": "14 January 2004",
+    "IMDB": "7.2",
+    "Rotten Tomatoes": null
+  },
+  {
+    "title": "Chatrapathi",
+    "Directed by": "S. S. Rajamouli",
+    "Screenplay by": "S. S. Rajamouli",
+    "Dialogues by": [
+      "M. Rathnam"
+    ],
+    "Story by": "V. Vijayendra Prasad",
+    "Produced by": "B. V. S. N. Prasad",
+    "Starring": [
+      "Prabhas",
+      "Shriya Saran",
+      "Shafi",
+      "Bhanupriya",
+      "Pradeep Rawat"
+    ],
+    "Cinematography": "K. K. Senthil Kumar",
+    "Edited by": "Kotagiri Venkateswara Rao",
+    "Music by": "M. M. Keeravani",
+    "Production company": "Sri Venkateswara Cine Chitra",
+    "Distributed by": "Sri Venkateswara Cine Chitra",
+    "Release date": [
+      "29 September 2005 ( 2005-09-29 )"
+    ],
+    "Running time": "165 minutes",
+    "Country": "India",
+    "Language": "Telugu",
+    "Budget": "₹ 12.5 crore (US$2.5 million)",
+    "Box office": "est. ₹21–22 crore (US$5 million) distributors' share",
+    "Running time(int)": 165,
+    "Box office(crores)": "21",
+    "Budget(crores)": "12.5",
+    "Release date(Datetime)": "29 September 2005",
+    "IMDB": "7.6",
+    "Rotten Tomatoes": null
+  },
+  {
+    "title": "Ek Niranjan",
+    "Directed by": "Puri Jagannadh",
+    "Written by": "Puri Jagannadh",
+    "Produced by": "Aditya Ram",
+    "Starring": [
+      "Prabhas",
+      "Kangana Ranaut",
+      "Sonu Sood",
+      "Mukul Dev"
+    ],
+    "Cinematography": "Shyam K. Naidu",
+    "Edited by": "M. R. Varma",
+    "Music by": "Mani Sharma",
+    "Production company": "Adityaram Movies",
+    "Distributed by": "Adityaram Movies",
+    "Release date": [
+      "29 October 2009 ( 2009-10-29 )"
+    ],
+    "Running time": "155 minutes",
+    "Country": "India",
+    "Language": "Telugu",
+    "Running time(int)": 155,
+    "Box office(crores)": "NA",
+    "Budget(crores)": "NA",
+    "Release date(Datetime)": "29 October 2009",
+    "IMDB": "5.4",
+    "Rotten Tomatoes": null
+  },
+  {
+    "title": "Darling",
+    "Directed by": "A. Karunakaran",
+    "Written by": "A. Karunakaran",
+    "Produced by": "B. V. S. N. Prasad",
+    "Starring": [
+      "Prabhas",
+      "Kajal Aggarwal"
+    ],
+    "Cinematography": "I. Andrew",
+    "Edited by": "Kotagiri Venkateswara Rao",
+    "Music by": "G. V. Prakash Kumar",
+    "Production company": "Sri Venkateswara Cine Chitra",
+    "Distributed by": [
+      "Sri Venkateshwara Creations",
+      "Reliance Movies"
+    ],
+    "Release date": [
+      "23 April 2010 ( 2010-04-23 )"
+    ],
+    "Running time": "153 mins",
+    "Country": "India",
+    "Language": "Telugu",
+    "Budget": [
+      "₹ 18–21 crore"
+    ],
+    "Box office": [
+      "est. ₹ 55 crore"
+    ],
+    "Running time(int)": 153,
+    "Box office(crores)": "55",
+    "Budget(crores)": "18",
+    "Release date(Datetime)": "23 April 2010",
+    "IMDB": "7.0",
+    "Rotten Tomatoes": "68%"
+  },
+  {
+    "title": "Mr. Perfect",
+    "Directed by": "Dasaradh",
+    "Screenplay by": [
+      "Hari Krishna",
+      "Praveen Varma"
+    ],
+    "Story by": "Dasaradh",
+    "Produced by": "Dil Raju",
+    "Starring": [
+      "Prabhas",
+      "Kajal Aggarwal",
+      "Taapsee Pannu"
+    ],
+    "Cinematography": "Vijay K. Chakravarthy",
+    "Edited by": "Marthand K. Venkatesh",
+    "Music by": "Devi Sri Prasad",
+    "Production company": "Sri Venkateswara Creations",
+    "Release date": [
+      "22 April 2011 ( 2011-04-22 )"
+    ],
+    "Running time": "145 min",
+    "Country": "India",
+    "Language": "Telugu",
+    "Box office": "est. ₹28.8 crore distributors' share",
+    "Running time(int)": 145,
+    "Box office(crores)": "28.8",
+    "Budget(crores)": "NA",
+    "Release date(Datetime)": "22 April 2011",
+    "IMDB": "6.8",
+    "Rotten Tomatoes": null
+  },
+  {
+    "title": "Mirchi",
+    "Directed by": "Koratala Siva",
+    "Written by": "Koratala Siva",
+    "Produced by": [
+      "V. Vamsi Krishna Reddy",
+      "Pramod Uppalapati"
+    ],
+    "Starring": [
+      "Prabhas",
+      "Anushka Shetty",
+      "Richa Gangopadhyay"
+    ],
+    "Cinematography": "Madhi",
+    "Edited by": "Kotagiri Venkateswara Rao",
+    "Music by": "Devi Sri Prasad",
+    "Production company": "UV Creations",
+    "Distributed by": "Great India Films (Overseas)",
+    "Release date": [
+      "8 February 2013 ( 2013-02-08 )"
+    ],
+    "Running time": "160 minutes",
+    "Country": "India",
+    "Language": "Telugu",
+    "Box office": "est. ₹ 80 crore",
+    "Running time(int)": 160,
+    "Box office(crores)": "80",
+    "Budget(crores)": "NA",
+    "Release date(Datetime)": "08 February 2013",
+    "IMDB": "7.3",
+    "Rotten Tomatoes": null
+  },
+  {
+    "title": "Baahubali: The Beginning",
+    "Directed by": "S.S. Rajamouli",
+    "Screenplay by": "S.S. Rajamouli",
+    "Story by": "V. Vijayendra Prasad",
+    "Produced by": [
+      "Shobu Yarlagadda",
+      "Prasad Devineni"
+    ],
+    "Starring": [
+      "Prabhas",
+      "Rana Daggubati",
+      "Anushka Shetty",
+      "Tamannaah Bhatia",
+      "Ramya Krishna",
+      "Sathyaraj",
+      "Nassar"
+    ],
+    "Cinematography": "K. K. Senthil Kumar",
+    "Visual effects by": "V. Srinivas Mohan",
+    "Edited by": "Kotagiri Venkateswara Rao",
+    "Music by": "M. M. Keeravani",
+    "Production company": "Arka Media Works",
+    "Distributed by": [
+      "Arka Media Works (Telugu)",
+      "Global United Media (Malayalam)",
+      "Studio Green , Sri Thenandal Films (Tamil)",
+      "Dharma Productions , AA Films (Hindi)"
+    ],
+    "Release date": [
+      "10 July 2015 ( 2015-07-10 )"
+    ],
+    "Running time": [
+      "158 minutes (Telugu)",
+      "159 minutes (Tamil)"
+    ],
+    "Country": "India",
+    "Languages": [
+      "Telugu",
+      "Tamil"
+    ],
+    "Budget": "₹ 180 crore",
+    "Box office": "est. ₹ 600–650 crore",
+    "Running time(int)": 158,
+    "Box office(crores)": "600",
+    "Budget(crores)": "180",
+    "Release date(Datetime)": "10 July 2015",
+    "IMDB": "8.0",
+    "Rotten Tomatoes": "91%"
+  },
+  {
+    "title": "Baahubali 2: The Conclusion",
+    "Directed by": "S. S. Rajamouli",
+    "Screenplay by": "S. S. Rajamouli",
+    "Story by": "V. Vijayendra Prasad",
+    "Produced by": [
+      "Shobu Yarlagadda",
+      "Prasad Devineni"
+    ],
+    "Starring": [
+      "Prabhas",
+      "Rana Daggubati",
+      "Anushka Shetty",
+      "Tamannaah Bhatia",
+      "Ramya Krishna",
+      "Sathyaraj",
+      "Nassar",
+      "Subbaraju"
+    ],
+    "Cinematography": "K. K. Senthil Kumar",
+    "Visual effects by": "Makuta VFX",
+    "Edited by": "Kotagiri Venkateswara Rao",
+    "Music by": "M. M. Keeravani",
+    "Production company": "Arka Media Works",
+    "Distributed by": [
+      "Arka Media Works (Telugu)",
+      "K Productions (Tamil)",
+      "Global United Media (Malayalam)",
+      "AA Films (Hindi)"
+    ],
+    "Release date": [
+      "28 April 2017 ( 2017-04-28 )"
+    ],
+    "Running time": [
+      "171 minutes (Telugu)",
+      "168 minutes (Tamil)"
+    ],
+    "Country": "India",
+    "Languages": [
+      "Telugu",
+      "Tamil"
+    ],
+    "Budget": "₹250 crore",
+    "Box office": "est. ₹ 1,737.68–1,810.60 crore",
+    "Running time(int)": 171,
+    "Box office(crores)": "1,737.68",
+    "Budget(crores)": "250",
+    "Release date(Datetime)": "28 April 2017",
+    "IMDB": "8.2",
+    "Rotten Tomatoes": "88%"
+  }
+]
