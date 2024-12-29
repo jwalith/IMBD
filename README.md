@@ -33,6 +33,3 @@ This project analyzes and processes data related to movies starring Prabhas, inc
 - **Pandas**: For data manipulation and analysis.
 - **External APIs**: To fetch ratings from IMDb and Rotten Tomatoes.
 
-## Installation
-
-1. Clone this repository:
